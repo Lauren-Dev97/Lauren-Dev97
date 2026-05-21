@@ -1,16 +1,29 @@
 ## Hi there 👋
+I'm a full-time computer science student and night-shift phlebotomist making a deliberate transition into tech. My clinical background gives me a real-world perspective on how software can solve problems in high-stakes, human-centred environments, especially in healthcare.
+I'm building toward roles in software development, health informatics, and technical support, and I'm always working on something new.
 
-<!--
-**Lauren-Dev97/Lauren-Dev97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Looking For
+Internship or junior opportunities in software development, IT support, or health informatics.
 
-Here are some ideas to get you started:
+🛠️Tech Stack
+Languages:
+C++
+HTML5
+CSS3
+JavaScript
+SQL / MySQL
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools and Platforms:
+MySQL
+MySQL Workbench
+Git
+QT
+GitHub
+VS Code
+
+🌱 Currently Learning
+
+Data Structures & Algorithms
+Web Development (HTML / CSS / JS)
+Database design with MySQL
